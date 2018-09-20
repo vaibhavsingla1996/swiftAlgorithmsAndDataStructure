@@ -1,11 +1,10 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
 
 // This is a Stack Data strcuture.
 // Stack follows Last In First Out order(LIFO).
 // Just like we see a stack of plates in wedding. the Last plate is the one gets to pick first.
 // So lets get started to make a stack Data structure
+
+import UIKit
 
 public struct Stack<T> {
     
